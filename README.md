@@ -44,7 +44,7 @@ Future Maintainers	May extend or improve the application	Well-written documentat
 
 
 Deployed Website
-# pending
+# https://mikeedozie.github.io/bilingual.app/
 
 The link provides access to the finished bilingual website. It works seamlessly on mobile and desktop browsers and has been tested for basic usability.
 
